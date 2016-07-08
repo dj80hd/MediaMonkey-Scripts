@@ -11,7 +11,7 @@ C:\Program Files (x86)\MediaMonkey\Scripts
 For example, if you were copying the PrependTitle Script you would have a 
 
 ```
-C:\Program Files (x86)\MediaMonkey\Scripts\PrependTitle
+C:\Program Files (x86)\MediaMonkey\Scripts\PrependTitle.vbs
 ```
 
 Next update the Scripts.ini file in the scripts directory and add an entry.  For example, when adding the PrependTitle script you would add this to Scripits.ini:
